@@ -1,0 +1,2 @@
+ini buffered char stream
+ini juga sama
